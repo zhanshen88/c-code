@@ -38,3 +38,21 @@ int main()
 //	return 0;
 
 //}
+
+//阶乘求和
+//int main()
+//{
+//	int n = 0;
+//	int i = 0;
+//	int j = 0;
+//	int rel = 1;
+//	int sum = 0;
+//	scanf("%d", &n);
+//	for (i = 1; i <= n; i++)
+//	{
+//		rel = rel * i;
+//		sum = sum + rel;
+//	}
+//	printf("%d\n", sum);
+//	return 0;
+//}
